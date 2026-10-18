@@ -1,0 +1,43 @@
+
+[
+    {
+        "question": "Who was Ruskin Bond's childhood friend?",
+        "expected_answer": "Omar",
+        "answerable": true
+    },
+    {
+        "question": "What sports did Ruskin Bond mention playing at school?",
+        "expected_answer": "Hockey and football",     
+        "answerable": true
+    },
+    {
+        "question": "What was the name of his grandfather's tiger?",
+        "expected_answer": "Timothy",                                                     
+        "answerable": true
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "expected_answer": "I don't know",
+        "answerable": false
+    },
+    {
+        "question": "What is the exact population of Tokyo?",
+        "expected_answer": "I don't know",
+        "answerable": false
+    },
+    {
+        "question": "What was the weather in London on 1 January 2020?",
+        "expected_answer": "I don't know",
+        "answerable": false
+    },
+    {
+        "question": "Who wrote The Room of Many Colours?",
+        "expected_answer": "Ruskin Bond",
+        "answerable": true
+    },
+    {
+        "question": "What kind of book is The Room of Many Colours?",
+        "expected_answer": "An illustrated children's book containing stories",
+        "answerable": true
+    }
+]
